@@ -114,21 +114,18 @@ Phép cộng
 
 Phép trừ
 
-![alt text](EXPRESS/image/tru.png)
+![alt text](image/tru.png)
 
 Phép nhân
 
-![alt text](EXPRESS/image/nhan.png)
+![alt text](image/nhan.png)
 
 Phép chia
 
-![alt text](EXPRESS/image/chia.png)
+![alt text](image/chia.png)
 
 Kiểm tra xử lý lỗi
 
-![alt text](EXPRESS/image/loi1.png)
+![alt text](image/loi1.png)
 
-![alt text](EXPRESS/image/loi.png)
-
-4. Kết quả
-Đã thực hiện các ví dụ Express Framework và xây dựng ứng dụng máy tính sử dụng mô hình MVC trên máy tính cá nhân.
+![alt text](image/loi.png)
