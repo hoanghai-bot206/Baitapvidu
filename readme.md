@@ -24,27 +24,46 @@ Xây dựng ứng dụng máy tính sử dụng mô hình MVC.
 
 Bai04/
 ├── EXPRESS/
+
 │   ├── views/
+
 │   ├── app.js
+
 │   ├── express_route.js
+
 │   ├── express_middleware.js
+
 │   ├── express_pug.js
+
 │   ├── express_handlebars.js
+
 │   ├── express_error.js
+
 │   ├── package.json
+
 │   └── package-lock.json
+
 │
+
 ├── my-express-app/
+
 │   ├── controllers/
+
 │   ├── models/
+
 │   ├── public/
+
 │   ├── views/
+
 │   ├── app.js
+
 │   ├── package.json
+
 │   └── package-lock.json
+
 │
-├── images/
-└── .gitignore
+└── images/
+
 
 3. Hình ảnh kết quả thực hiện
 
