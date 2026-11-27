@@ -1,0 +1,35 @@
+
+// Trang HTML su dung ngon ngu Pug
+doctype html
+html
+  head
+    title ỨNG DỤNG MÁY TÍNH
+    meta(charset="UTF-8")
+    link(rel="stylesheet" href="/styles.css")
+  body
+    h1 MÁY TÍNH
+
+    form(action="/calculator/calculate" method="post")
+      label(for="num1") Nhập số thứ nhất:
+      input(type="number" name="num1" required)
+      br
+      br
+
+      label(for="num2") Nhập số thứ hai:
+      input(type="number" name="num2" required)
+      br
+      br
+
+      label(for="operation") Chọn phép tính:
+      select(name="operation" required)
+        option(value="add") Cộng (+)
+        option(value="subtract") Trừ (-)
+        option(value="multiply") Nhân (*)
+        option(value="divide") Chia (/)
+      br
+      br
+
+      input(type="submit" value="Tính toán")
+
+    if result !== undefined && result !== null
+      h2 Kết quả: #{result}
